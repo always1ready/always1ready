@@ -9,9 +9,12 @@
 * **Анализ данных и БД:** проектирование баз данных, очистка и предобработка лингвистических массивов (Московская лексико-типологическая группа).
 * **Библиотечное дело:** на практике узнаю особенности работы с большими массивами книг и ищу способы её оптимизации.
 
+## Публикации
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-4033-4211)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ru&user=vZ2mB2kAAAAJ&view_op=list_works&gmla=AF9nlQvGMRW_xcd_qnTPE1HYtCSEnF7hi9bF-AaNGnaCrfs4p8xcQ-a2iDrxFzGJQ2qBukt5C32tadGvQDO4fkadzVE3qum4mYbLbJdqifm2Iw)
+
 ## Стек и инструменты
 
-### Технологии и инструменты
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -30,7 +33,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white)
-![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
 
 ### Образование
 
