@@ -10,7 +10,7 @@
 * **Библиотечное дело:** на практике узнаю особенности работы с большими массивами книг и ищу способы её оптимизации.
 
 ## Публикации
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-4033-4211)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4033--4211-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-4033-4211)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ru&user=vZ2mB2kAAAAJ&view_op=list_works&gmla=AF9nlQvGMRW_xcd_qnTPE1HYtCSEnF7hi9bF-AaNGnaCrfs4p8xcQ-a2iDrxFzGJQ2qBukt5C32tadGvQDO4fkadzVE3qum4mYbLbJdqifm2Iw)
 
 ## Стек и инструменты
